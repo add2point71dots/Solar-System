@@ -1,4 +1,5 @@
-#here's a change for github.
+#here's a change for github practice
+
 #sets a noun plural or not
 #depending on the number preceding it
 def pluralize(num, word)
